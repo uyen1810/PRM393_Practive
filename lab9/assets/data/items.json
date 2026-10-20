@@ -1,0 +1,17 @@
+[
+  {
+    "id": 1,
+    "name": "Laptop Dell XPS 15",
+    "category": "Electronics"
+  },
+  {
+    "id": 2,
+    "name": "Bàn phím cơ Keychron K2",
+    "category": "Accessories"
+  },
+  {
+    "id": 3,
+    "name": "Chuột Logitech MX Master 3S",
+    "category": "Accessories"
+  }
+]
